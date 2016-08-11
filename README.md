@@ -1,6 +1,6 @@
 # Rancher Compose Go Agent
 
-This is an extension to [amaysim/rancher-goagent](https://github.com/amaysim-au/rancher-goagent) to provide `rancher-compose` for Rancher deployments.
+Light weight container to provide `rancher-compose` functionalities.
 
 Usage:
 
